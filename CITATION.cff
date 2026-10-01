@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it and link to the dataset page."
+title: "IATA Air Waybill Test Data"
+abstract: "Air waybill numbers combining a 3-digit airline prefix, a 7-digit serial, and a MOD-7 check digit (IATA Resolution 600a)."
+type: dataset
+license: CC0-1.0
+version: "1.0.0"
+date-released: "2026-09-30"
+authors:
+  - name: "StanzaAPI"
+    website: "https://stanzaapi.com"
+repository-code: "https://github.com/StanzaAPI/iata-awb-test-data"
+url: "https://stanzaapi.com/datasets/iata-awb"

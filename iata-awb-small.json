@@ -1,0 +1,617 @@
+{
+  "name": "IATA Air Waybill Test Data",
+  "description": "Air waybill numbers combining a 3-digit airline prefix, a 7-digit serial, and a MOD-7 check digit (IATA Resolution 600a).",
+  "source": "https://stanzaapi.com/datasets/iata-awb",
+  "license": "CC0-1.0",
+  "validity": "engine-validated",
+  "size": "small",
+  "count": 100,
+  "columns": [
+    "awb",
+    "airline_prefix",
+    "serial",
+    "check_digit"
+  ],
+  "rows": [
+    {
+      "awb": "70780947063",
+      "airline_prefix": "707",
+      "serial": "8094706",
+      "check_digit": 3
+    },
+    {
+      "awb": "79401697335",
+      "airline_prefix": "794",
+      "serial": "0169733",
+      "check_digit": 5
+    },
+    {
+      "awb": "60600452560",
+      "airline_prefix": "606",
+      "serial": "0045256",
+      "check_digit": 0
+    },
+    {
+      "awb": "30624524520",
+      "airline_prefix": "306",
+      "serial": "2452452",
+      "check_digit": 0
+    },
+    {
+      "awb": "44678846104",
+      "airline_prefix": "446",
+      "serial": "7884610",
+      "check_digit": 4
+    },
+    {
+      "awb": "66842028915",
+      "airline_prefix": "668",
+      "serial": "4202891",
+      "check_digit": 5
+    },
+    {
+      "awb": "76010949313",
+      "airline_prefix": "760",
+      "serial": "1094931",
+      "check_digit": 3
+    },
+    {
+      "awb": "29315884410",
+      "airline_prefix": "293",
+      "serial": "1588441",
+      "check_digit": 0
+    },
+    {
+      "awb": "57235261700",
+      "airline_prefix": "572",
+      "serial": "3526170",
+      "check_digit": 0
+    },
+    {
+      "awb": "26321692940",
+      "airline_prefix": "263",
+      "serial": "2169294",
+      "check_digit": 0
+    },
+    {
+      "awb": "35292208112",
+      "airline_prefix": "352",
+      "serial": "9220811",
+      "check_digit": 2
+    },
+    {
+      "awb": "96496233905",
+      "airline_prefix": "964",
+      "serial": "9623390",
+      "check_digit": 5
+    },
+    {
+      "awb": "58068959714",
+      "airline_prefix": "580",
+      "serial": "6895971",
+      "check_digit": 4
+    },
+    {
+      "awb": "50045014364",
+      "airline_prefix": "500",
+      "serial": "4501436",
+      "check_digit": 4
+    },
+    {
+      "awb": "14245218505",
+      "airline_prefix": "142",
+      "serial": "4521850",
+      "check_digit": 5
+    },
+    {
+      "awb": "38519924285",
+      "airline_prefix": "385",
+      "serial": "1992428",
+      "check_digit": 5
+    },
+    {
+      "awb": "84436929142",
+      "airline_prefix": "844",
+      "serial": "3692914",
+      "check_digit": 2
+    },
+    {
+      "awb": "48686000605",
+      "airline_prefix": "486",
+      "serial": "8600060",
+      "check_digit": 5
+    },
+    {
+      "awb": "16743578413",
+      "airline_prefix": "167",
+      "serial": "4357841",
+      "check_digit": 3
+    },
+    {
+      "awb": "81564434204",
+      "airline_prefix": "815",
+      "serial": "6443420",
+      "check_digit": 4
+    },
+    {
+      "awb": "22168263311",
+      "airline_prefix": "221",
+      "serial": "6826331",
+      "check_digit": 1
+    },
+    {
+      "awb": "24297630534",
+      "airline_prefix": "242",
+      "serial": "9763053",
+      "check_digit": 4
+    },
+    {
+      "awb": "98215887394",
+      "airline_prefix": "982",
+      "serial": "1588739",
+      "check_digit": 4
+    },
+    {
+      "awb": "66061189551",
+      "airline_prefix": "660",
+      "serial": "6118955",
+      "check_digit": 1
+    },
+    {
+      "awb": "33458578091",
+      "airline_prefix": "334",
+      "serial": "5857809",
+      "check_digit": 1
+    },
+    {
+      "awb": "85285729780",
+      "airline_prefix": "852",
+      "serial": "8572978",
+      "check_digit": 0
+    },
+    {
+      "awb": "30774082752",
+      "airline_prefix": "307",
+      "serial": "7408275",
+      "check_digit": 2
+    },
+    {
+      "awb": "64432803803",
+      "airline_prefix": "644",
+      "serial": "3280380",
+      "check_digit": 3
+    },
+    {
+      "awb": "24149312480",
+      "airline_prefix": "241",
+      "serial": "4931248",
+      "check_digit": 0
+    },
+    {
+      "awb": "52032388362",
+      "airline_prefix": "520",
+      "serial": "3238836",
+      "check_digit": 2
+    },
+    {
+      "awb": "10649158074",
+      "airline_prefix": "106",
+      "serial": "4915807",
+      "check_digit": 4
+    },
+    {
+      "awb": "52691474645",
+      "airline_prefix": "526",
+      "serial": "9147464",
+      "check_digit": 5
+    },
+    {
+      "awb": "55762821871",
+      "airline_prefix": "557",
+      "serial": "6282187",
+      "check_digit": 1
+    },
+    {
+      "awb": "52269332142",
+      "airline_prefix": "522",
+      "serial": "6933214",
+      "check_digit": 2
+    },
+    {
+      "awb": "57245132300",
+      "airline_prefix": "572",
+      "serial": "4513230",
+      "check_digit": 0
+    },
+    {
+      "awb": "61696626201",
+      "airline_prefix": "616",
+      "serial": "9662620",
+      "check_digit": 1
+    },
+    {
+      "awb": "59402779994",
+      "airline_prefix": "594",
+      "serial": "0277999",
+      "check_digit": 4
+    },
+    {
+      "awb": "34979762761",
+      "airline_prefix": "349",
+      "serial": "7976276",
+      "check_digit": 1
+    },
+    {
+      "awb": "25961351601",
+      "airline_prefix": "259",
+      "serial": "6135160",
+      "check_digit": 1
+    },
+    {
+      "awb": "88445493953",
+      "airline_prefix": "884",
+      "serial": "4549395",
+      "check_digit": 3
+    },
+    {
+      "awb": "64462039476",
+      "airline_prefix": "644",
+      "serial": "6203947",
+      "check_digit": 6
+    },
+    {
+      "awb": "49751120645",
+      "airline_prefix": "497",
+      "serial": "5112064",
+      "check_digit": 5
+    },
+    {
+      "awb": "38532027946",
+      "airline_prefix": "385",
+      "serial": "3202794",
+      "check_digit": 6
+    },
+    {
+      "awb": "97377587856",
+      "airline_prefix": "973",
+      "serial": "7758785",
+      "check_digit": 6
+    },
+    {
+      "awb": "80135518451",
+      "airline_prefix": "801",
+      "serial": "3551845",
+      "check_digit": 1
+    },
+    {
+      "awb": "47905605645",
+      "airline_prefix": "479",
+      "serial": "0560564",
+      "check_digit": 5
+    },
+    {
+      "awb": "36249647903",
+      "airline_prefix": "362",
+      "serial": "4964790",
+      "check_digit": 3
+    },
+    {
+      "awb": "66123842874",
+      "airline_prefix": "661",
+      "serial": "2384287",
+      "check_digit": 4
+    },
+    {
+      "awb": "78578292321",
+      "airline_prefix": "785",
+      "serial": "7829232",
+      "check_digit": 1
+    },
+    {
+      "awb": "92213169761",
+      "airline_prefix": "922",
+      "serial": "1316976",
+      "check_digit": 1
+    },
+    {
+      "awb": "39832934460",
+      "airline_prefix": "398",
+      "serial": "3293446",
+      "check_digit": 0
+    },
+    {
+      "awb": "83013488371",
+      "airline_prefix": "830",
+      "serial": "1348837",
+      "check_digit": 1
+    },
+    {
+      "awb": "93288352694",
+      "airline_prefix": "932",
+      "serial": "8835269",
+      "check_digit": 4
+    },
+    {
+      "awb": "37130934882",
+      "airline_prefix": "371",
+      "serial": "3093488",
+      "check_digit": 2
+    },
+    {
+      "awb": "54963421652",
+      "airline_prefix": "549",
+      "serial": "6342165",
+      "check_digit": 2
+    },
+    {
+      "awb": "74569043090",
+      "airline_prefix": "745",
+      "serial": "6904309",
+      "check_digit": 0
+    },
+    {
+      "awb": "24427355026",
+      "airline_prefix": "244",
+      "serial": "2735502",
+      "check_digit": 6
+    },
+    {
+      "awb": "77542121392",
+      "airline_prefix": "775",
+      "serial": "4212139",
+      "check_digit": 2
+    },
+    {
+      "awb": "42903594252",
+      "airline_prefix": "429",
+      "serial": "0359425",
+      "check_digit": 2
+    },
+    {
+      "awb": "29946092001",
+      "airline_prefix": "299",
+      "serial": "4609200",
+      "check_digit": 1
+    },
+    {
+      "awb": "30313771684",
+      "airline_prefix": "303",
+      "serial": "1377168",
+      "check_digit": 4
+    },
+    {
+      "awb": "40601692780",
+      "airline_prefix": "406",
+      "serial": "0169278",
+      "check_digit": 0
+    },
+    {
+      "awb": "42257259481",
+      "airline_prefix": "422",
+      "serial": "5725948",
+      "check_digit": 1
+    },
+    {
+      "awb": "59245689625",
+      "airline_prefix": "592",
+      "serial": "4568962",
+      "check_digit": 5
+    },
+    {
+      "awb": "35319141955",
+      "airline_prefix": "353",
+      "serial": "1914195",
+      "check_digit": 5
+    },
+    {
+      "awb": "99486691180",
+      "airline_prefix": "994",
+      "serial": "8669118",
+      "check_digit": 0
+    },
+    {
+      "awb": "35732864450",
+      "airline_prefix": "357",
+      "serial": "3286445",
+      "check_digit": 0
+    },
+    {
+      "awb": "66865022984",
+      "airline_prefix": "668",
+      "serial": "6502298",
+      "check_digit": 4
+    },
+    {
+      "awb": "66177025544",
+      "airline_prefix": "661",
+      "serial": "7702554",
+      "check_digit": 4
+    },
+    {
+      "awb": "46738416724",
+      "airline_prefix": "467",
+      "serial": "3841672",
+      "check_digit": 4
+    },
+    {
+      "awb": "77740512370",
+      "airline_prefix": "777",
+      "serial": "4051237",
+      "check_digit": 0
+    },
+    {
+      "awb": "16559624306",
+      "airline_prefix": "165",
+      "serial": "5962430",
+      "check_digit": 6
+    },
+    {
+      "awb": "79346914755",
+      "airline_prefix": "793",
+      "serial": "4691475",
+      "check_digit": 5
+    },
+    {
+      "awb": "42945809203",
+      "airline_prefix": "429",
+      "serial": "4580920",
+      "check_digit": 3
+    },
+    {
+      "awb": "25501522524",
+      "airline_prefix": "255",
+      "serial": "0152252",
+      "check_digit": 4
+    },
+    {
+      "awb": "19561161091",
+      "airline_prefix": "195",
+      "serial": "6116109",
+      "check_digit": 1
+    },
+    {
+      "awb": "56540716631",
+      "airline_prefix": "565",
+      "serial": "4071663",
+      "check_digit": 1
+    },
+    {
+      "awb": "21006448946",
+      "airline_prefix": "210",
+      "serial": "0644894",
+      "check_digit": 6
+    },
+    {
+      "awb": "50000211604",
+      "airline_prefix": "500",
+      "serial": "0021160",
+      "check_digit": 4
+    },
+    {
+      "awb": "99259099983",
+      "airline_prefix": "992",
+      "serial": "5909998",
+      "check_digit": 3
+    },
+    {
+      "awb": "98096521973",
+      "airline_prefix": "980",
+      "serial": "9652197",
+      "check_digit": 3
+    },
+    {
+      "awb": "91931189804",
+      "airline_prefix": "919",
+      "serial": "3118980",
+      "check_digit": 4
+    },
+    {
+      "awb": "38667921220",
+      "airline_prefix": "386",
+      "serial": "6792122",
+      "check_digit": 0
+    },
+    {
+      "awb": "87672256063",
+      "airline_prefix": "876",
+      "serial": "7225606",
+      "check_digit": 3
+    },
+    {
+      "awb": "42156856534",
+      "airline_prefix": "421",
+      "serial": "5685653",
+      "check_digit": 4
+    },
+    {
+      "awb": "53972792050",
+      "airline_prefix": "539",
+      "serial": "7279205",
+      "check_digit": 0
+    },
+    {
+      "awb": "90426340142",
+      "airline_prefix": "904",
+      "serial": "2634014",
+      "check_digit": 2
+    },
+    {
+      "awb": "55631612972",
+      "airline_prefix": "556",
+      "serial": "3161297",
+      "check_digit": 2
+    },
+    {
+      "awb": "91858548466",
+      "airline_prefix": "918",
+      "serial": "5854846",
+      "check_digit": 6
+    },
+    {
+      "awb": "37987433835",
+      "airline_prefix": "379",
+      "serial": "8743383",
+      "check_digit": 5
+    },
+    {
+      "awb": "17202094631",
+      "airline_prefix": "172",
+      "serial": "0209463",
+      "check_digit": 1
+    },
+    {
+      "awb": "23161402744",
+      "airline_prefix": "231",
+      "serial": "6140274",
+      "check_digit": 4
+    },
+    {
+      "awb": "88275001791",
+      "airline_prefix": "882",
+      "serial": "7500179",
+      "check_digit": 1
+    },
+    {
+      "awb": "16196776801",
+      "airline_prefix": "161",
+      "serial": "9677680",
+      "check_digit": 1
+    },
+    {
+      "awb": "28754866316",
+      "airline_prefix": "287",
+      "serial": "5486631",
+      "check_digit": 6
+    },
+    {
+      "awb": "63058350275",
+      "airline_prefix": "630",
+      "serial": "5835027",
+      "check_digit": 5
+    },
+    {
+      "awb": "36955522865",
+      "airline_prefix": "369",
+      "serial": "5552286",
+      "check_digit": 5
+    },
+    {
+      "awb": "62583403606",
+      "airline_prefix": "625",
+      "serial": "8340360",
+      "check_digit": 6
+    },
+    {
+      "awb": "92308668554",
+      "airline_prefix": "923",
+      "serial": "0866855",
+      "check_digit": 4
+    },
+    {
+      "awb": "29236221804",
+      "airline_prefix": "292",
+      "serial": "3622180",
+      "check_digit": 4
+    }
+  ]
+}
